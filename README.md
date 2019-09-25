@@ -31,10 +31,10 @@ There are 3 csv datasets:
 
 ## Installation/Requirement
 1. Tableau dashboards and visualizations can be downloaded from [Tableau Public Repo](https://public.tableau.com/profile/anh.chu#!/vizhome/Seattleairbnb/EDA). The file can be read with Tableau version 2019.2 and above
-2. To run the Python code, you will need to install necessary packages: Seaborn, NLTK, Wordcloud, Textblob and VaderSentiment using `pip install` or `conda install`. The code is written in Python3
+2. The code is written in Python3. To run the Python code, you will need to install necessary packages: Seaborn, NLTK, Wordcloud, Textblob, VaderSentiment, scikitlearn and its dependencies using `pip install` or `conda install`. 
 
 ## Reference and Credit
-While doing this project, below resources have helped me in some parts of this project and I would like to thank these authors and articles for their helps: 
+Below resources have helped me in some parts of this project, and I would like to thank these authors and articles:
 
 1. [Visualizing Data with Pairs Plots in Python - Will Koehrsen](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
 2. [A Complete Exploratory Data Analysis and Visualization for Text Data - Susan Li](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a)
