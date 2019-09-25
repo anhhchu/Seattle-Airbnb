@@ -8,7 +8,7 @@ The project consists of 4 parts:
 - Part 1: Data Visualization in [Tableau](https://public.tableau.com/profile/anh.chu#!/vizhome/Seattleairbnb/EDA) 
 - Part 2: Price Prediction using Linear Regression and Random Forest Regression
 - Part 3: Review sentiment with Python NLTK, TextBlob and VaderSentiment
-- Part 4: A blog post is written on Medium to summarize the findings to non-technical audience
+- Part 4: [A blog post](https://medium.com/@anhchu1291/seattle-airbnb-renting-scene-a-closer-look-powered-by-data-f7498ae57262) on Medium to summarize the findings to non-technical audience 
 
 
 ## Project Files
