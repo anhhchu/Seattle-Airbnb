@@ -34,7 +34,7 @@ There are 3 csv datasets:
 2. The code is written in Python3. To run the Python code, you will need to install necessary packages: Seaborn, NLTK, Wordcloud, Textblob, VaderSentiment, scikitlearn and its dependencies using `pip install` or `conda install`. 
 
 ## Reference and Credit
-Below resources have helped me in some parts of this project, and I would like to thank these authors and articles:
+Below resources have helped me in some parts of this project, and I would like to thank these authors for their articles:
 
 1. [Visualizing Data with Pairs Plots in Python - Will Koehrsen](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
 2. [A Complete Exploratory Data Analysis and Visualization for Text Data - Susan Li](https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a)
