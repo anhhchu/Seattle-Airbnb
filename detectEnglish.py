@@ -1,18 +1,18 @@
  # Detect English module
 
-# http://inventwithpython.com/hacking (BSD Licensed)
+"""http://inventwithpython.com/hacking (BSD Licensed)
 
 
-# To use, type this code:
-#   import detectEnglish
+To use, type this code:
+   import detectEnglish
+   detectEnglish.isEnglish(someString) # returns True or False
 
- #   detectEnglish.isEnglish(someString) # returns True or False
-# (There must be a "dictionary.txt" file in this directory with all English
-
- # words in it, one word per line. You can download this from
- # http://invpy.com/dictionary.txt)
+(There must be a "dictionary.txt" file in this directory with all English words in it, one word per line. You can download this from
+ http://invpy.com/dictionary.txt)
+ 
+"""
 UPPERLETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-LETTERS_AND_SPACE = UPPERLETTERS + UPPERLETTERS.lower() + ' \t\n'
+LETTERS = UPPERLETTERS + UPPERLETTERS.lower() + ' \t\n'
 
 
 def loadDictionary():
@@ -44,9 +44,10 @@ def getEnglishCount(message):
 def removeNonLetters(message):
 	lettersOnly = []
 	for symbol in message:
-		if symbol in LETTERS_AND_SPACE:
+		if symbol in LETTERS:
 			lettersOnly.append(symbol)
 	return ''.join(lettersOnly)
+
 
 
 def isEnglish(message, wordPercentage=20, letterPercentage=85):
