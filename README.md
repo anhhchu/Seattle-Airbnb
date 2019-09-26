@@ -1,5 +1,7 @@
+<img src="seattle-by-oakie-unsplash.jpg" alt="high rise buildings by Oakie - Unsplash" title="Seattle high rise buildings by Oakie - Unsplash" style ="width: 1000px;"/>
+
 # Seattle-Airbnb Data Analysis
-Exploratory Data Analysis and Sentiment Analysis on Seattle Airbnb Dataset using Tableau and Python
+Exploratory Data Analysis, Price Prediction and Sentiment Analysis on Seattle Airbnb Dataset using Tableau and Python
 
 ## Motivation
 This project is part of the requirement for Data Scientist Nanodegree on Udacity to follow the CRISP-DM (Cross-industry standard process for data mining) of [Seattle Airbnb Dataset on Kaggle](kaggle.com/airbnb/seattle/data). The project aims to analyze few aspects of the Airbnb renting scene in Seattle such as: the effect of location on price, occupancy pattern, earnings and reviews by host, and what guests say about their experience, etc. 
