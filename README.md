@@ -1,6 +1,6 @@
 <img src="seattle-by-oakie-unsplash.jpg" alt="high rise buildings by Oakie - Unsplash" title="Seattle high rise buildings by Oakie - Unsplash" style ="width: 1000px;"/>
 
-# Seattle-Airbnb Data Analysis
+# Seattle Airbnb Data Analysis
 Analyzed Seattle Airbnb listing Dataset with Tableau data visualization 
 Assessed guest sentiment using Python TextBlob and VaderSentiment, visualization with Seaborn and Wordcloud 
 
